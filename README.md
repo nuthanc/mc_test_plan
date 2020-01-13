@@ -27,5 +27,7 @@
     * Docker restart cases
     * Ping between pods
     * Pod availability in contrail-api and kube-manager
+    * Pod deletion and creation
     * RBAC test cases for Admin control
     * Namespace, Service, Ingress and Network policy test cases
+    * OpenStack test cases
